@@ -5,6 +5,9 @@ body {
     padding: 0;
     background-color: #222222;
 }
+p {
+    background-color: white;
+}
 h1 {
     text-align: center;
     margin-top: 50px;
