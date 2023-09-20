@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if(iterations >= event.target.dataset.value.length) {
       clearInterval(interval);
     }
-    iterations += 1 /3;
+    iterations += 1 /10;
     }, 30);
   }
 });
