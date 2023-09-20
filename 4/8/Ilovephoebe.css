@@ -21,7 +21,7 @@ body {
 } */
 
 h1 {
-  background-image: linear-gradient(30deg, green ,lightpink,brown, green);
+  background-image: linear-gradient(45deg, green,lightgreen ,lightpink,brown,rosybrown,lightgreen, green);
   font-size: 4rem;
   font-family: "Space Mono", monospace;
   text-align: center;
