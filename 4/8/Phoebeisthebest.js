@@ -22,4 +22,4 @@ document.addEventListener("DOMContentLoaded", () => {
     iterations += 1 /3;
     }, 30);
   }
-}
+});
