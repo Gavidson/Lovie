@@ -6,6 +6,5 @@ h1 {
   color: white;
   font-size: 5rem;
   font-family: "Space Mono", monospace;
-  position: absolute;
-  translate: 75% 200%;
+  text-align: center;
 }
