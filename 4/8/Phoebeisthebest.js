@@ -1,3 +1,4 @@
+document.addEventListener("DOMContentLoaded", () => {
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 const phrases = ["Hii Phoebe!! :)", "I Love You So So Much", "I think this is just a start to what I wanna make you.", "I miss you so much :(" , "Tell me what you think!", "Its gonna go back to the start but not all the way because idk how to do that yet!", "I love you kisses!", "Poop"];
 const totalRepetitions = 1;
@@ -42,4 +43,4 @@ function animateText() {
   }
   iterations += 1 / 3;
   }, 30);
-}
+}})
