@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-const phrases = ["Hii Phoebe!! :)", "I Love You So So Much", "I think this is just a start to what I wanna make you.", "I miss you so much :(" , "Tell me what you think!", "Its gonna go back to the start but not all the way because idk how to do that yet!", "It also won't let you replay it so if you want to just reload.", "I love you kisses!", "Poop"];
+const phrases = ["Hii Phoebe!! :)", "I love you so so much", "And I miss you so much :(" , "Do tell me what you think!", "Even tho you can't replay it yet :(", "But if you want to you can reload the page!", "Anyway I love you, kisses!", "PoopBird!"];
 const totalRepetitions = 1;
 const h1Element = document.querySelector("h1");
 let currentPhraseIndex = 0;
